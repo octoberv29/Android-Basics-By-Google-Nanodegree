@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="description">Description: The University of Bristol is a red brick research university in Bristol, England. It received its royal charter in 1909, although it can trace its roots to a Merchant Venturers school founded in 1595 and University College, Bristol, which had been in existence since 1876.</string>
+    <string name="address">Address: Senate House, Tyndall Ave, Bristol BS8 1TH, United Kingdom</string>
+    <string name="total_enrollment">Total Enrollment: 22,278 (2015)</string>
+</resources>
