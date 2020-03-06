@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/category_shopping"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/colorShopping"
+        android:gravity="center"
+        android:text="@string/category_shopping"
+        android:textColor="@android:color/white"
+        android:textSize="26sp"
+        android:tag="@string/category_shopping"/>
+
+    <TextView
+        android:id="@+id/category_sport"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/colorSport"
+        android:gravity="center"
+        android:text="@string/category_sport"
+        android:textColor="@android:color/white"
+        android:textSize="26sp"
+        android:tag="@string/category_sport"/>
+
+    <TextView
+        android:id="@+id/category_food"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/colorFood"
+        android:gravity="center"
+        android:text="@string/category_food"
+        android:textColor="@android:color/white"
+        android:textSize="26sp"
+        android:tag="@string/category_food"/>
+
+    <TextView
+        android:id="@+id/category_drink"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/colorDrink"
+        android:gravity="center"
+        android:text="@string/category_drink"
+        android:textColor="@android:color/white"
+        android:textSize="26sp"
+        android:tag="@string/category_drink"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#42BAC5</color>
+    <color name="colorPrimaryDark">#42BAC5</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorShopping">#50ACD3</color>
+    <color name="colorSport">#4A81BB</color>
+    <color name="colorFood">#62539C</color>
+    <color name="colorDrink">#524364</color>
+</resources>

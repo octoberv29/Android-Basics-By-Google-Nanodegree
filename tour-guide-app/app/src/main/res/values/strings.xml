@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="category_sport">Sport</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_food">Food</string>
+    <string name="category_drink">Drink</string>
+
+</resources>
