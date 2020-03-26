@@ -1,0 +1,5 @@
+<resources>
+    <!-- App name and etc... -->
+    <string name="app_name">Inventory App</string>
+    <string name="placeholder">Hello, World!</string>
+</resources>
