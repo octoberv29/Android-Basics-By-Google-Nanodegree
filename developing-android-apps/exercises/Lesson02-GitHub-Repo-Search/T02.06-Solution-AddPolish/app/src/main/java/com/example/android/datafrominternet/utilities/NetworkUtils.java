@@ -52,7 +52,7 @@ public class NetworkUtils {
                 .appendQueryParameter(PARAM_QUERY, githubSearchQuery)
                 .appendQueryParameter(PARAM_SORT, sortBy)
                 .build();
-
+        // https://api.github.com/search/repositories?q=android&sort=stars
         URL url = null;
         try {
             url = new URL(builtUri.toString());

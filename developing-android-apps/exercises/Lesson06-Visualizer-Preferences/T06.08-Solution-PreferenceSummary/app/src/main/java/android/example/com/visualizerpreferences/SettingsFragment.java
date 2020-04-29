@@ -43,7 +43,7 @@ public class SettingsFragment extends PreferenceFragmentCompat implements
         // passing in a preference and the value of the preference
 
         SharedPreferences sharedPreferences = getPreferenceScreen().getSharedPreferences();
-        PreferenceScreen prefScreen = getPreferenceScreen();
+        PreferenceScreen prefScreen = getPreferenceScreen(); // this is to get count and get each pref later
         int count = prefScreen.getPreferenceCount();
 
         // Go through all of the preferences, and set up their preference summary.
